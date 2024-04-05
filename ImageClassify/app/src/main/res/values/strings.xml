@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageClassify</string>
+    <string name="selectedItem">selectedItem</string>
+</resources>
